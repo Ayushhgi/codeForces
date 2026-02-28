@@ -1,4 +1,1 @@
- if(b>1){
-                time+=(b-1);
-                b=1;
-            }
+graph[vertex].get(i).des
