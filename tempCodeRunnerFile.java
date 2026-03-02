@@ -1,1 +1,7 @@
-graph[vertex].get(i).des
+
+            System.out.println();
+        }
+        sc.close();
+        
+    }
+}
